@@ -1,5 +1,4 @@
 # SkinVision
-Developed by: Alibi Nauanov, Tarek Nabih, Aibar Talip, Rustem Khassanov
 
 ## Model
 Our inspiration:
