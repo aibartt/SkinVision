@@ -8,7 +8,7 @@ Our inspiration:
 ## How to Use
 1. Clone the repository
 ```
-git clone https://github.com/alibinauanov/swe-course-project-spring24.git
+git clone https://github.com/aibartt/SkinVision.git
 ```
 
 2. Navigate to the repository :open_file_folder:
